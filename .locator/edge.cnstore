@@ -1,0 +1,1010 @@
+{
+	"id": "59b1a6cd-3746-4580-876e-e88dc5c65668",
+	"name": "edge",
+	"nodes": [],
+	"locators": [
+		{
+			"id": "7072dff2-4442-43bd-9cc7-05d05ba62369",
+			"name": "cbx_para_onde",
+			"filePath": "7299c56e-f344-4b7e-9759-a3480e9fa8ea.jpg",
+			"content": {
+				"automationType": "Edge",
+				"processName": {
+					"value": "msedge"
+				},
+				"filePath": {
+					"value": "msedge.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"role": {
+								"value": "window"
+							},
+							"title": {
+								"value": "*Explorar*"
+							},
+							"url": {
+								"value": "https://www.google.com/travel/explore",
+								"excluded": true
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_1"
+							},
+							"controlMetaType": "Tab"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"tag": {
+										"value": "INPUT"
+									},
+									"class": {
+										"value": "II2One j0Ppje zmMKJ LbIaRd",
+										"excluded": true
+									},
+									"type": {
+										"value": "text",
+										"excluded": true
+									},
+									"ancestorId": {
+										"value": "abId0.3039788571369595",
+										"excluded": true
+									},
+									"ancestorClass": {
+										"value": "V00Bye ESCxub gugWEd",
+										"excluded": true
+									},
+									"isLeaf": {
+										"value": "1",
+										"excluded": true
+									},
+									"cssSelector": {
+										"value": "body>c-wiz>div>div>div>c-wiz>div>div>div>div>div>section>div>div>div>div>div>div>div>div>div>div>div>div>input",
+										"excluded": true
+									},
+									"tableRow": {
+										"value": "-1",
+										"excluded": true
+									},
+									"tableCol": {
+										"value": "-1",
+										"excluded": true
+									},
+									"controlMetaType": "Web",
+									"index": {
+										"value": "1",
+										"excluded": true
+									},
+									"jsname": {
+										"isCustom": true,
+										"value": "yrriRe",
+										"operator": "equals",
+										"excluded": true
+									},
+									"jsaction": {
+										"isCustom": true,
+										"value": "focus:h06R8; blur:zjh6rb",
+										"operator": "equals",
+										"excluded": true
+									},
+									"autocomplete": {
+										"isCustom": true,
+										"value": "off",
+										"operator": "equals",
+										"excluded": true
+									},
+									"role": {
+										"isCustom": true,
+										"value": "combobox",
+										"operator": "equals",
+										"excluded": true
+									},
+									"aria-autocomplete": {
+										"isCustom": true,
+										"value": "inline",
+										"operator": "equals",
+										"excluded": true
+									},
+									"aria-haspopup": {
+										"isCustom": true,
+										"value": "true",
+										"operator": "equals",
+										"excluded": true
+									},
+									"aria-expanded": {
+										"isCustom": true,
+										"value": "false",
+										"operator": "equals",
+										"excluded": true
+									},
+									"placeholder": {
+										"isCustom": true,
+										"value": "Para onde?",
+										"operator": "equals",
+										"excluded": false
+									},
+									"aria-label": {
+										"isCustom": true,
+										"value": "Para onde?",
+										"operator": "equals",
+										"excluded": false
+									},
+									"jslog": {
+										"isCustom": true,
+										"value": "8582;ved:2ahUKEwihibLKxsCHAxW2HbkGHZ1mCbIQhkN6BAgDEA8;track:click",
+										"operator": "equals",
+										"excluded": true
+									}
+								},
+								"childControls": [],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				],
+				"parameters": {
+					"excluded": true,
+					"operator": "equals",
+					"value": ""
+				}
+			}
+		},
+		{
+			"id": "1146e96f-9e4f-4f01-b265-6d76cc38dfa7",
+			"name": "cbx_de_onde",
+			"filePath": "8720feed-df13-4f53-be49-8d2dffedd526.jpg",
+			"content": {
+				"automationType": "Edge",
+				"processName": {
+					"value": "msedge"
+				},
+				"filePath": {
+					"value": "msedge.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"role": {
+								"value": "window"
+							},
+							"title": {
+								"value": "*Explorar*"
+							},
+							"url": {
+								"value": "https://www.google.com/travel/explore",
+								"excluded": true
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_1"
+							},
+							"controlMetaType": "Tab"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"tag": {
+										"value": "INPUT"
+									},
+									"class": {
+										"value": "II2One j0Ppje zmMKJ LbIaRd",
+										"excluded": true
+									},
+									"type": {
+										"value": "text",
+										"excluded": true
+									},
+									"ancestorId": {
+										"value": "abId0.10277928039336048",
+										"excluded": true
+									},
+									"ancestorClass": {
+										"value": "V00Bye ESCxub KckZb",
+										"excluded": true
+									},
+									"isLeaf": {
+										"value": "1",
+										"excluded": true
+									},
+									"cssSelector": {
+										"value": "body>c-wiz>div>div>div>c-wiz>div>div>div>div>div>section>div>div>div>div>div>div>div>div>div>div>div>div>input",
+										"excluded": true
+									},
+									"tableRow": {
+										"value": "-1",
+										"excluded": true
+									},
+									"tableCol": {
+										"value": "-1",
+										"excluded": true
+									},
+									"controlMetaType": "Web",
+									"index": {
+										"value": "1",
+										"excluded": true
+									},
+									"value": {
+										"isCustom": true,
+										"value": "Campinas",
+										"operator": "equals",
+										"excluded": true
+									},
+									"jsname": {
+										"isCustom": true,
+										"value": "yrriRe",
+										"operator": "equals",
+										"excluded": true
+									},
+									"jsaction": {
+										"isCustom": true,
+										"value": "focus:h06R8; blur:zjh6rb",
+										"operator": "equals",
+										"excluded": true
+									},
+									"autocomplete": {
+										"isCustom": true,
+										"value": "off",
+										"operator": "equals",
+										"excluded": true
+									},
+									"role": {
+										"isCustom": true,
+										"value": "combobox",
+										"operator": "equals",
+										"excluded": true
+									},
+									"aria-autocomplete": {
+										"isCustom": true,
+										"value": "inline",
+										"operator": "equals",
+										"excluded": true
+									},
+									"aria-haspopup": {
+										"isCustom": true,
+										"value": "true",
+										"operator": "equals",
+										"excluded": true
+									},
+									"aria-expanded": {
+										"isCustom": true,
+										"value": "false",
+										"operator": "equals",
+										"excluded": true
+									},
+									"aria-label": {
+										"isCustom": true,
+										"value": "De onde?",
+										"operator": "equals",
+										"excluded": false
+									},
+									"jslog": {
+										"isCustom": true,
+										"value": "8582;ved:2ahUKEwjXhZSd1cCHAxWhN7kGHXbUC-8QhkN6BAgDEA0;track:click",
+										"operator": "equals",
+										"excluded": true
+									}
+								},
+								"childControls": [],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				],
+				"parameters": {
+					"excluded": true,
+					"operator": "equals",
+					"value": ""
+				}
+			}
+		},
+		{
+			"id": "c0afe06c-5286-43b7-8d60-bbb58b3ae366",
+			"name": "img_globo",
+			"filePath": "9591f725-a1a7-41d5-94d2-30490c06cbb2.jpg",
+			"imageFilePath": "5e4c109b-12c1-4436-9749-528de1402a59.jpg",
+			"content": {
+				"automationType": "Edge",
+				"processName": {
+					"value": "msedge"
+				},
+				"filePath": {
+					"value": "msedge.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"role": {
+								"value": "window"
+							},
+							"title": {
+								"value": "São Paulo para qualquer lugar | Explorar"
+							},
+							"url": {
+								"value": "https://www.google.com/travel/explore?tfs=CBwQAxoPag0IAxIJL20vMDIycGZtGg9yDQgDEgkvbS8wMjJwZm1AAUgBcAKCAQsI____________AZgBAQ&tfu=GioaKAoSCZhZcOBGI0pAEQilYgjFNSpAEhIJYoq21eTQQ0AR8LU67_WuEsA",
+								"excluded": true
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_1"
+							},
+							"controlMetaType": "Tab"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"tag": {
+										"value": "path"
+									},
+									"ancestorId": {
+										"value": "c3806",
+										"excluded": true
+									},
+									"ancestorClass": {
+										"value": " NMm5M",
+										"excluded": true
+									},
+									"isLeaf": {
+										"value": "1",
+										"excluded": true
+									},
+									"cssSelector": {
+										"value": "body>c-wiz>div>div>div>c-wiz>div>div>div>div>div>section>div>div>div>div>div>div>div>div>div>div>div>ul>li>div>svg>g>path",
+										"excluded": true
+									},
+									"tableRow": {
+										"value": "-1",
+										"excluded": true
+									},
+									"tableCol": {
+										"value": "-1",
+										"excluded": true
+									},
+									"controlMetaType": "Web",
+									"index": {
+										"value": "1",
+										"excluded": true
+									},
+									"d": {
+										"isCustom": true,
+										"value": "M22,16v-2l-8.5-5V3.5C13.5,2.67,12.83,2,12,2s-1.5,0.67-1.5,1.5V9L2,14v2l8.5-2.5V19L8,20.5L8,22l4-1l4,1l0-1.5L13.5,19 v-5.5L22,16z",
+										"operator": "equals",
+										"excluded": true
+									},
+									"xPath": {
+										"excluded": false,
+										"value": "//li[@role='option' and .//div[@class='zsRT0d' and text()='{{paisdestino}}']]"
+									}
+								},
+								"childControls": [
+									{
+										"identifier": {
+											"filePath": {
+												"value": "5e4c109b-12c1-4436-9749-528de1402a59.jpg",
+												"excluded": false
+											},
+											"accuracy": {
+												"value": "0,75",
+												"excluded": false
+											},
+											"matchIndex": {
+												"value": "0"
+											},
+											"timeout": {
+												"value": "5000"
+											},
+											"method": {
+												"value": "outRegionHighestAccuracy"
+											},
+											"selectionRect": {
+												"value": "225,631,20,23"
+											},
+											"elementRect": {
+												"value": "263,413,20,20"
+											},
+											"dpi": {
+												"value": "96"
+											},
+											"controlMetaType": "Image"
+										},
+										"childControls": [],
+										"excluded": true
+									}
+								],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				],
+				"parameters": {
+					"excluded": true,
+					"operator": "equals",
+					"value": ""
+				}
+			}
+		},
+		{
+			"id": "2df1efc6-433c-4788-adc8-ba59086f181e",
+			"name": "fld_calendario",
+			"filePath": "8e92f496-794a-4770-b1ab-07960f31dc0b.jpg",
+			"content": {
+				"automationType": "Edge",
+				"processName": {
+					"value": "msedge"
+				},
+				"filePath": {
+					"value": "msedge.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"role": {
+								"value": "window"
+							},
+							"title": {
+								"value": "*Explorar*"
+							},
+							"url": {
+								"value": "https://www.google.com/travel/explore?tfs=CBwQAxodag0IAxIJL20vMDIycGZtcgwIBBIIL20vMDZta2oaHWoMCAQSCC9tLzA2bWtqcg0IAxIJL20vMDIycGZtQAFIAXACggELCP___________wGYAQE&tfu=GgA",
+								"excluded": true
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_1"
+							},
+							"controlMetaType": "Tab"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"tag": {
+										"value": "DIV"
+									},
+									"class": {
+										"value": "Dkhc8e",
+										"excluded": true
+									},
+									"ancestorId": {
+										"value": "ow78",
+										"excluded": true
+									},
+									"ancestorClass": {
+										"value": "Kn4yub ZsBBeb",
+										"excluded": true
+									},
+									"isLeaf": {
+										"value": "1",
+										"excluded": true
+									},
+									"cssSelector": {
+										"value": "body>c-wiz>div>div>div>c-wiz>div>div>div>div>div>section>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div",
+										"excluded": true
+									},
+									"sInfo": {
+										"value": "Viagem de uma semana nos próximos seis meses",
+										"excluded": true
+									},
+									"tableRow": {
+										"value": "-1",
+										"excluded": true
+									},
+									"tableCol": {
+										"value": "-1",
+										"excluded": true
+									},
+									"title": {
+										"value": "Viagem de uma semana*",
+										"excluded": false
+									},
+									"controlMetaType": "Web",
+									"index": {
+										"value": "1"
+									},
+									"jsname": {
+										"isCustom": true,
+										"value": "ij8cu",
+										"operator": "equals",
+										"excluded": true
+									}
+								},
+								"childControls": [],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				],
+				"parameters": {
+					"excluded": true,
+					"operator": "equals",
+					"value": ""
+				}
+			}
+		},
+		{
+			"id": "665eb5eb-a7c0-47d3-8262-6ba5acbe6e39",
+			"name": "fld_datas_especificas",
+			"filePath": "9f924767-d9c7-4d22-8dd8-4c5ef5d4b698.jpg",
+			"content": {
+				"automationType": "Edge",
+				"processName": {
+					"value": "msedge"
+				},
+				"filePath": {
+					"value": "msedge.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"role": {
+								"value": "window"
+							},
+							"title": {
+								"value": "*Explorar*"
+							},
+							"url": {
+								"value": "https://www.google.com/travel/explore?tfs=CBwQAxodag0IAxIJL20vMDIycGZtcgwIBBIIL20vMDZta2oaHWoMCAQSCC9tLzA2bWtqcg0IAxIJL20vMDIycGZtQAFIAXACggELCP___________wGYAQE&tfu=GgA",
+								"excluded": true
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_1"
+							},
+							"controlMetaType": "Tab"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"tag": {
+										"value": "BUTTON"
+									},
+									"id": {
+										"value": "sNlbpb"
+									},
+									"class": {
+										"value": "VfPpkd-AznF2e VfPpkd-AznF2e-OWXEXe-jJNx8e-QBLLGd JJYS0b V0XHEd RURdG",
+										"excluded": true
+									},
+									"ancestorId": {
+										"value": "ow78",
+										"excluded": true
+									},
+									"ancestorClass": {
+										"value": "VfPpkd-AznF2e-LUERP-bN97Pc",
+										"excluded": true
+									},
+									"isLeaf": {
+										"value": "0",
+										"excluded": true
+									},
+									"cssSelector": {
+										"value": "body>c-wiz>div>div>div>c-wiz>div>div>div>div>div>section>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>span>button",
+										"excluded": true
+									},
+									"sInfo": {
+										"value": "Datas específicas",
+										"excluded": true
+									},
+									"tableRow": {
+										"value": "-1",
+										"excluded": true
+									},
+									"tableCol": {
+										"value": "-1",
+										"excluded": true
+									},
+									"tabIndex": {
+										"value": "-1",
+										"excluded": true
+									},
+									"controlMetaType": "Web",
+									"index": {
+										"value": "1",
+										"excluded": true
+									},
+									"role": {
+										"isCustom": true,
+										"value": "tab",
+										"operator": "equals",
+										"excluded": true
+									},
+									"aria-selected": {
+										"isCustom": true,
+										"value": "false",
+										"operator": "equals",
+										"excluded": true
+									},
+									"jscontroller": {
+										"isCustom": true,
+										"value": "t1sulf",
+										"operator": "equals",
+										"excluded": true
+									},
+									"jsaction": {
+										"isCustom": true,
+										"value": "click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue; touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc; touchcancel:JMtRjd; focus:AHmuwe; blur:O22p3e;",
+										"operator": "equals",
+										"excluded": true
+									},
+									"data-disable-idom": {
+										"isCustom": true,
+										"value": "true",
+										"operator": "equals",
+										"excluded": true
+									},
+									"data-skip-focus-on-activate": {
+										"isCustom": true,
+										"value": "false",
+										"operator": "equals",
+										"excluded": true
+									}
+								},
+								"childControls": [],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				],
+				"parameters": {
+					"excluded": true,
+					"operator": "equals",
+					"value": ""
+				}
+			}
+		},
+		{
+			"id": "bc29e581-c5b0-451d-8c7b-3909d9360452",
+			"name": "fld_partida",
+			"filePath": "dddb9f56-4fe2-4300-895d-9c37b297615f.jpg",
+			"content": {
+				"automationType": "Edge",
+				"processName": {
+					"value": "msedge"
+				},
+				"filePath": {
+					"value": "msedge.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"role": {
+								"value": "window"
+							},
+							"title": {
+								"value": "*Explorar*"
+							},
+							"url": {
+								"value": "https://www.google.com/travel/explore?tfs=CBwQAxodag0IAxIJL20vMDIycGZtcgwIBBIIL20vMDZta2oaHWoMCAQSCC9tLzA2bWtqcg0IAxIJL20vMDIycGZtQAFIAXACggELCP___________wGYAQE&tfu=GgA",
+								"excluded": true
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_1"
+							},
+							"controlMetaType": "Tab"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"tag": {
+										"value": "INPUT"
+									},
+									"class": {
+										"value": "TP4Lpb eoY5cb j0Ppje",
+										"excluded": true
+									},
+									"type": {
+										"value": "text",
+										"excluded": true
+									},
+									"ancestorId": {
+										"value": "abId0.7582299476434684",
+										"excluded": true
+									},
+									"ancestorClass": {
+										"value": "NA5Egc ESCxub fXx9Lc cd29Sd wg2eAc",
+										"excluded": false
+									},
+									"isLeaf": {
+										"value": "1",
+										"excluded": true
+									},
+									"cssSelector": {
+										"value": "body>c-wiz>div>div>div>c-wiz>div>div>div>div>div>section>div>div>div>div>div>div>div>div>div>div>div>div>div>span>div>div>div>div>div>input",
+										"excluded": true
+									},
+									"tableRow": {
+										"value": "-1",
+										"excluded": true
+									},
+									"tableCol": {
+										"value": "-1",
+										"excluded": true
+									},
+									"controlMetaType": "Web",
+									"index": {
+										"value": "1",
+										"excluded": true
+									},
+									"jsname": {
+										"isCustom": true,
+										"value": "yrriRe",
+										"operator": "equals",
+										"excluded": true
+									},
+									"placeholder": {
+										"isCustom": true,
+										"value": "Partida",
+										"operator": "equals",
+										"excluded": false
+									},
+									"aria-label": {
+										"isCustom": true,
+										"value": "Partida",
+										"operator": "equals",
+										"excluded": false
+									},
+									"spellcheck": {
+										"isCustom": true,
+										"value": "false",
+										"operator": "equals",
+										"excluded": true
+									},
+									"aria-describedby": {
+										"isCustom": true,
+										"value": "i28",
+										"operator": "equals",
+										"excluded": true
+									}
+								},
+								"childControls": [],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				],
+				"parameters": {
+					"excluded": true,
+					"operator": "equals",
+					"value": ""
+				}
+			}
+		},
+		{
+			"id": "cd34fb75-c145-4283-be7b-3983cf412fe2",
+			"name": "fld_volta",
+			"filePath": "75eafc12-8510-49fc-82c3-791569368e5a.jpg",
+			"content": {
+				"automationType": "Edge",
+				"processName": {
+					"value": "msedge"
+				},
+				"filePath": {
+					"value": "msedge.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"role": {
+								"value": "window"
+							},
+							"title": {
+								"value": "*Explorar*"
+							},
+							"url": {
+								"value": "https://www.google.com/travel/explore?tfs=CBwQAxodag0IAxIJL20vMDIycGZtcgwIBBIIL20vMDZta2oaHWoMCAQSCC9tLzA2bWtqcg0IAxIJL20vMDIycGZtQAFIAXACggELCP___________wGYAQE&tfu=GgA",
+								"excluded": true
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_1"
+							},
+							"controlMetaType": "Tab"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"tag": {
+										"value": "INPUT"
+									},
+									"class": {
+										"value": "TP4Lpb eoY5cb j0Ppje",
+										"excluded": true
+									},
+									"type": {
+										"value": "text",
+										"excluded": true
+									},
+									"ancestorId": {
+										"value": "abId0.7297307958537955",
+										"excluded": true
+									},
+									"ancestorClass": {
+										"value": "NA5Egc ESCxub fXx9Lc wg2eAc",
+										"excluded": false
+									},
+									"isLeaf": {
+										"value": "1",
+										"excluded": true
+									},
+									"cssSelector": {
+										"value": "body>c-wiz>div>div>div>c-wiz>div>div>div>div>div>section>div>div>div>div>div>div>div>div>div>div>div>div>div>span>div>div>div>div>div>input",
+										"excluded": true
+									},
+									"tableRow": {
+										"value": "-1",
+										"excluded": true
+									},
+									"tableCol": {
+										"value": "-1",
+										"excluded": true
+									},
+									"controlMetaType": "Web",
+									"index": {
+										"value": "1",
+										"excluded": true
+									},
+									"jsname": {
+										"isCustom": true,
+										"value": "yrriRe",
+										"operator": "equals",
+										"excluded": true
+									},
+									"placeholder": {
+										"isCustom": true,
+										"value": "Volta",
+										"operator": "equals",
+										"excluded": false
+									},
+									"aria-label": {
+										"isCustom": true,
+										"value": "Volta",
+										"operator": "equals",
+										"excluded": false
+									},
+									"spellcheck": {
+										"isCustom": true,
+										"value": "false",
+										"operator": "equals",
+										"excluded": true
+									},
+									"aria-describedby": {
+										"isCustom": true,
+										"value": "i28",
+										"operator": "equals",
+										"excluded": true
+									}
+								},
+								"childControls": [],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				],
+				"parameters": {
+					"excluded": true,
+					"operator": "equals",
+					"value": ""
+				}
+			}
+		},
+		{
+			"id": "2ac42c08-1507-4409-bded-318395e06a86",
+			"name": "btn_concluido",
+			"filePath": "4904e8bc-20ce-4da0-b740-5705edc8c249.jpg",
+			"content": {
+				"automationType": "Edge",
+				"processName": {
+					"value": "msedge"
+				},
+				"filePath": {
+					"value": "msedge.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"role": {
+								"value": "window"
+							},
+							"title": {
+								"value": "*Explorar*"
+							},
+							"url": {
+								"value": "https://www.google.com/travel/explore?tfs=CBwQAxodag0IAxIJL20vMDIycGZtcgwIBBIIL20vMDZta2oaHWoMCAQSCC9tLzA2bWtqcg0IAxIJL20vMDIycGZtQAFIAXACggELCP___________wGYAQE&tfu=GgA",
+								"excluded": true
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_1"
+							},
+							"controlMetaType": "Tab"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"tag": {
+										"value": "SPAN",
+										"excluded": false
+									},
+									"class": {
+										"value": "VfPpkd-vQzf8d",
+										"excluded": true
+									},
+									"ancestorId": {
+										"value": "ow78",
+										"excluded": true
+									},
+									"ancestorClass": {
+										"value": "VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ nCP5yc AjY5Oe DuMIQc LQeN7 z18xM Q74FEc",
+										"excluded": true
+									},
+									"isLeaf": {
+										"value": "1",
+										"excluded": true
+									},
+									"cssSelector": {
+										"value": "body>c-wiz>div>div>div>c-wiz>div>div>div>div>div>section>div>div>div>div>div>div>div>div>div>div>div>div>button>span",
+										"excluded": true
+									},
+									"sInfo": {
+										"value": "Concluído"
+									},
+									"tableRow": {
+										"value": "-1",
+										"excluded": true
+									},
+									"tableCol": {
+										"value": "-1",
+										"excluded": true
+									},
+									"controlMetaType": "Web",
+									"index": {
+										"value": "1",
+										"excluded": true
+									},
+									"jsname": {
+										"isCustom": true,
+										"value": "V67aGc",
+										"operator": "equals",
+										"excluded": true
+									}
+								},
+								"childControls": [],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				],
+				"parameters": {
+					"excluded": true,
+					"operator": "equals",
+					"value": ""
+				}
+			}
+		}
+	]
+}
